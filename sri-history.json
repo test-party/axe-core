@@ -2,5 +2,9 @@
   "1.0.1": {
     "axe.js": "sha256-69fBhQK8nRInm0zMM5WdTiQa2sOvs9xAXGPUigeYFNQ=",
     "axe.min.js": "sha256-YVCF2pX1k05xNa1TXaDz0e4wIi3N9EUH6OPLuNXI0U8="
+  },
+  "1.0.2": {
+    "axe.js": "sha256-M/2Jq18RgjCn1PZQIi9Dohy5AvjRuWZ9MYo6/+4eDwc=",
+    "axe.min.js": "sha256-XN/2dcTvOWbJ6ejPmEe6I0NyJSFqlES9muyVSqhfrXU="
   }
 }
