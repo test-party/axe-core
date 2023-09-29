@@ -1,4 +1,4 @@
-# testparty-axe-core
+# testparty-axe
 
 [![License](https://img.shields.io/npm/l/axe-core.svg)](LICENSE)
 [![Version](https://img.shields.io/npm/v/axe-core.svg)](https://www.npmjs.com/package/axe-core)
@@ -25,7 +25,7 @@ To improve test coverage even further we recommend the [intelligent guided tests
 First download the package:
 
 ```console
-npm install testparty-axe-core --save-dev
+npm install testparty-axe --save-dev
 ```
 
 Now include the javascript file in each of your iframes in your fixtures or test systems:
