@@ -155,7 +155,8 @@ var commons;
    */
   testUtils.fixtureSetup = function (content) {
     'use strict';
-    testUtils.injectIntoFixture(content);
+    const node = testUtils.injectIntoFixture(content);
+    node.setAttribute('testparty-id', '123456');
     axe.teardown();
     return axe.setup(fixture);
   };
