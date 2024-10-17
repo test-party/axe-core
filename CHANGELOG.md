@@ -2190,8 +2190,7 @@ All notable changes to this project will be documented in this file. See [standa
 - **video-caption:** remove excludeHidden: false ([#3554](https://github.com/test-party/axe-core/issues/3554)) ([a3e4bbe](https://github.com/test-party/axe-core/commit/a3e4bbec30fd7cf0f197fdf69d0886cd475b06c1))
 - **virtual-node:** default and lowercase type property ([#2350](https://github.com/test-party/axe-core/issues/2350)) ([f6b3484](https://github.com/test-party/axe-core/commit/f6b34849fd0d869448137b4d032ca69a91fa9f66))
 - **virtual-node:** fix hasClass to work with svg elements ([#1603](https://github.com/test-party/axe-core/issues/1603)) ([9d83662](https://github.com/test-party/axe-core/commit/9d8366278b2e9e5d0933471dd5d4c94dab11e033))
-- whitespace in hidden-content test ([99e8b73](https://github.com/test-party/axe-core/commit/99e8b737f679395692d5572ce79ccb64c9321d82))
-=======
+- # whitespace in hidden-content test ([99e8b73](https://github.com/test-party/axe-core/commit/99e8b737f679395692d5572ce79ccb64c9321d82))
 
 ### 1.0.1 (2023-09-25)
 
