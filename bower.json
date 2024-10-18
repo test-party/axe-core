@@ -1,37 +1,17 @@
 {
-  "name": "axe-core",
-  "version": "4.10.0",
+  "name": "testparty-axe",
+  "version": "1.0.3",
   "deprecated": true,
   "contributors": [
     {
-      "name": "David Sturley",
-      "organization": "Deque Systems, Inc.",
-      "url": "http://deque.com/"
-    },
-    {
-      "name": "Dylan Barrell",
-      "organization": "Deque Systems, Inc.",
-      "url": "http://deque.com/"
-    },
-    {
-      "name": "Wilco Fiers",
-      "organization": "Deque Systems, Inc.",
-      "url": "http://deque.com/"
-    },
-    {
-      "name": "Dian Fay",
-      "organization": "Deque Systems, Inc.",
-      "url": "http://deque.com/"
-    },
-    {
-      "name": "Marcy Sutton",
-      "organization": "Deque Systems, Inc.",
-      "url": "http://deque.com/"
+      "name": "Jason Tan",
+      "organization": "URL to IRL, Inc.",
+      "url": "https://www.testparty.co/"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dequelabs/axe-core.git"
+    "url": "https://github.com/test-party/axe-core.git"
   },
   "main": "axe.js",
   "typings": "axe.d.ts",
